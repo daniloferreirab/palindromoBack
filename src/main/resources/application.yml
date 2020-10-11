@@ -1,0 +1,7 @@
+spring:
+  data:
+      mongodb:
+        uri: mongodb://productListUser:productListPassword@localhost:27017/admin
+        
+discount:
+ palindromo: 50
