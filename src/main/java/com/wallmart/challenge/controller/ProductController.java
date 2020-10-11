@@ -17,6 +17,7 @@ import com.wallmart.challenge.service.ProductService;
 
 @RestController
 @RequestMapping(path = "/products")
+@CrossOrigin(origins = "*")
 public class ProductController {
     
     @Autowired
