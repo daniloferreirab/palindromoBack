@@ -1,7 +1,7 @@
 spring:
   data:
       mongodb:
-        uri: mongodb://productListUser:productListPassword@localhost:27017/admin
+        uri: mongodb+srv://dfb-wallmart-44:jzxrg0kvcVCAk2NN@cluster0.rhfdr.mongodb.net/productos?retryWrites=true&w=majority
         
 discount:
  palindromo: 50
