@@ -5,3 +5,6 @@ spring:
         
 discount:
  palindromo: 50
+ 
+server:
+  port: 8090
